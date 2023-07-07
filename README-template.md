@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Product-Preview-card)
 - Live Site URL: [LIVE SITE](https://indranjanachatterjee.github.io/Product-Preview-card/)
 
 ## My process
